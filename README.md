@@ -16,8 +16,9 @@
   <a href="https://github.com/anujpathakkk/Enemies-Shooting-Game/releases/download/v1.0/game.exe">
     <img src="https://img.shields.io/badge/🎮%20DOWNLOAD%20GAME-PLAY%20NOW-success?style=for-the-badge" alt="Download Game">
   </a>
+  <br>
   <b>⬆️ Click the button above to download and play the game.</b>
-
+</br>
 
 
 
