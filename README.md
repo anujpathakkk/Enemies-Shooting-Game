@@ -2,9 +2,6 @@
 
 
   <b>🎮 A Colorful and Challenging C++ Shooting Game</b>
-</p>
-
-<p align="center">
   Fight fast-moving enemies, choose different weapons, collect power-ups, and survive increasingly difficult levels!
 
 
