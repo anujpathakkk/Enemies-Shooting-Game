@@ -1,26 +1,23 @@
 # 🎯 Enemies Shooting Game
 
-<p align="center">
+
   <b>🎮 A Colorful and Challenging C++ Shooting Game</b>
 </p>
 
 <p align="center">
   Fight fast-moving enemies, choose different weapons, collect power-ups, and survive increasingly difficult levels!
-</p>
+
 
 ---
 
 ## 🎮 Download & Play
 
-<p align="center">
+
   <a href="https://github.com/anujpathakkk/Enemies-Shooting-Game/releases/download/v1.0/game.exe">
     <img src="https://img.shields.io/badge/🎮%20DOWNLOAD%20GAME-PLAY%20NOW-success?style=for-the-badge" alt="Download Game">
   </a>
-</p>
-
-<p align="center">
   <b>⬆️ Click the button above to download and play the game.</b>
-</p>
+
 
 
 
