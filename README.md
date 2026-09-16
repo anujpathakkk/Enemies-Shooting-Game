@@ -13,7 +13,7 @@
 ## 🎮 Download & Play
 
 <p align="center">
-  <a href="https://github.com/Mamtayadav28/Enemies-Shooting-Game/releases/download/v1.0/game.exe">
+  <a href="https://github.com/anujpathakkk/Enemies-Shooting-Game/releases/download/v1.0/game.exe">
     <img src="https://img.shields.io/badge/🎮%20DOWNLOAD%20GAME-PLAY%20NOW-success?style=for-the-badge" alt="Download Game">
   </a>
 </p>
@@ -22,7 +22,7 @@
   <b>⬆️ Click the button above to download and play the game.</b>
 </p>
 
-> ⚠️ The download button works after `game.exe` is uploaded to a GitHub Release named `v1.0`.
+
 
 ---
 
@@ -207,4 +207,4 @@ Enemies-Shooting-Game/
 ├── game.layout
 ├── Makefile.win
 ├── highscore.txt
-└── 01_Enemies_Shooting_Game_Project.zip
+└── Enemies_Shooting_Game_Project.zip
